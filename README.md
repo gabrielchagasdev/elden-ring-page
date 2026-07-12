@@ -1,3 +1,4 @@
+🔗 **Acesse o site rodando ao vivo aqui:** [Portal Elden Ring](https://gabrielchagasdev.github.io/elden-ring-page/)
 ![Demonstração do Site](./screenshot.png)
 # Portal Soulslike - Elden Ring ⚔️
 
