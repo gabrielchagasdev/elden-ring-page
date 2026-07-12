@@ -1,0 +1,103 @@
+/*CSS GERAL | !PRA ESCOLHA DAS CORES EU UTILIZEI IA! */
+body { 
+background-color: #111215;
+color: #e2d9c5;
+font-family: 'Georgia', serif;
+line-height: 1.6;
+margin: 0;
+padding: 20px;}
+a {
+    color: #cca43b;
+    font-weight: bold;
+    font-size: 18px;
+    max-height: 20px;
+    margin-right: 20px;
+    transition: color 0.3s; /*da um efeito suave quando o mouse passa por cima*/
+}
+ a:hover {
+    color: #fff;
+    text-shadow: #cca43b; /*se eu esquecer, isso da um efeito de brilho no fundo*/
+ }
+ 
+ h1 {
+    color: #d4af37;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 30px;
+    text-transform: uppercase; /* caso eu nao lembre, isso deixa o titulo maiusculo */
+    letter-spacing: 2px; /* isso da um espacamento legal entre as palavras*/
+ }
+ h2 {
+    color: #d4af37;
+    margin-top: 40px;
+    border-bottom: solid #333; /* uma linha legal embaixo dos subtitulos */
+    padding-bottom: 5px;
+ }
+ hr {
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #cca43b, transparent); /* essa e mais complicada, cria um linha divisoria que some nas pontas ( nao sabia desse ) */
+    margin: 20px 0;
+ }
+ img {
+    border: 2px solid #cca43b; /* bordinha dourada em todas as fotos */
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);/* sombra bem pesada pra profundidade */
+ }
+ strong {
+    color: #fff;
+ }
+ mark {
+    background-color: #cca43b;
+    color: #000;
+    font-weight: bold;
+    padding: 2px 5px;
+ }
+ form {
+    background-color: #1a1c23;
+    padding: 20px;
+    border: 1px solid #cca43b;
+    border-radius: 8px;
+    max-width: 500px; /* limita a largura da parada */
+    margin: 40px auto; /* centraliza o formulario na tela */
+ }
+ input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #111215;
+    border: 1px solid #555;
+    color: #fff;
+    border-radius: 4px;
+    box-sizing: border-box; /* garante que o input nao passe do limite de tamanho da caixa */
+}
+input:focus /*a borda acende um dourado maneiro quando clica em digitar */{
+    border-color: #cca43b;
+    outline: none;
+}
+button {
+    background-color: #cca43b;
+    color: #000;
+    border: none;
+    padding: 12px 20px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 15px;
+    transition: background 0.3s; /* tempo de transicao da cor do botao */
+}
+button:hover {
+    background-color: #e5b83b; /* o botao fica mais claro quando passa o mouse */
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 14px;
+    color: #777;
+}
+
+
+
