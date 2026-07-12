@@ -1,3 +1,4 @@
+![Demonstração do Site](./screenshot.png)
 # Portal Soulslike - Elden Ring ⚔️
 
 Uma página web temática desenvolvida para centralizar informações essenciais sobre o universo de *Elden Ring*, explorando a lore, conceitos fundamentais do jogo e a jornada dos Maculados.
