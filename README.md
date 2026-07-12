@@ -17,7 +17,7 @@ O objetivo deste projeto foi construir uma interface simples e imersiva que apre
 * *HTML5:* Estruturação semântica de todo o conteúdo de texto e seções de lore.
 * *CSS3:* Estilização customizada utilizando uma paleta de cores escura com acentos em dourado para refletir a identidade visual do jogo, além de navegação superior (Contato e Outros Jogos).
 
-## 🚀 Como Visualizar
+## 🚀 Como Visualizar os Arquivos ( Alternativo )
 
 Como o projeto é construído com tecnologias front-end estáticas, você pode visualizar diretamente abrindo o arquivo principal:
 1. Faça o download ou clone este repositório.
